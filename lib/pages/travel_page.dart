@@ -12,7 +12,7 @@ class _TravelPageState extends State<TravelPage> {
     // TODO: implement build
     return const Scaffold(
       body: Center(
-        child: Text('首页'),
+        child: Text('旅拍'),
       ),
     );
   }

@@ -12,7 +12,7 @@ class _MyPageState extends State<MyPage> {
     // TODO: implement build
     return const Scaffold(
       body: Center(
-        child: Text('首页'),
+        child: Text('我的'),
       ),
     );
   }
